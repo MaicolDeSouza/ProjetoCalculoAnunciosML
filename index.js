@@ -1,5 +1,5 @@
 
-const freeFreightPriceML = 79;  // Valor do priduto para oferecer frete gratis ML
+const freeFreightPriceML = 79;  // Valor do produto para oferecer frete gratis ML
 const freeFreightTax = 18;     // Taxa do frete gratis (R$)
 const sellTax = 12; // % taxa no ML (%) 
 const fixedTax = 6; // Taxa fixa caso nao tenha frete gratis (R$)
